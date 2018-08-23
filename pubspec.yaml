@@ -5,7 +5,7 @@ author: Loup Inc. <hello@intheloup.io>
 homepage: https://github.com/loup-v/geolocation
 
 environment:
-  sdk: '<2.0.0'
+  sdk: '^2.0.0'
 
 dependencies:
   flutter:
